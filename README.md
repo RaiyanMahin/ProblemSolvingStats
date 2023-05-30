@@ -3,9 +3,9 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [213976](https://codeforces.com/profile/213976) | 594 |
+| Codeforces | [213976](https://codeforces.com/profile/213976) | 728 |
 | CodeChef | [rm_097](https://www.codechef.com/users/rm_097) | 232 |
-| AtCoder | [rm_097](https://atcoder.jp/users/rm_097) | 194 |
+| AtCoder | [rm_097](https://atcoder.jp/users/rm_097) | 214 |
 | SPOJ | [raiyanmahin](https://www.spoj.com/users/raiyanmahin/) | 12 | 
 | LightOJ | [rm_097](https://lightoj.com/user/rm_097) | 44 | 
 | Toph | [rm_097](https://toph.co/u/rm_097) | 14 |
@@ -18,6 +18,6 @@
 | USACO | [Raiyan-Bashir-Mahin](http://www.usaco.org/) | 6 |
 | Meta Hacker Cup | [RaiyanMahin](https://www.facebook.com/codingcompetitions/hacker-cup/) | 15 |
 | Google [Code Jam, KickStart]  | [Illusion_2b01](https://codingcompetitions.withgoogle.com/profile/) | 40 |
-| Total | | 1385 |
+| Total | | 1540 |
 
-Last Updated: 2 Feb, 2023
+Last Updated: 30 May, 2023
