@@ -20,9 +20,9 @@
 | Google [Code Jam, KickStart]  | [Illusion_2b01](https://codingcompetitions.withgoogle.com/profile/) | 40 |
 | GFG  | [raiyanmahin](https://auth.geeksforgeeks.org/user/raiyanmahin/) | 7 |
 | LeetCode | [rm_097](https://leetcode.com/rm_097/) | 13 |
-| Total | | 1729 |
+| Total | | 1818 |
 
-Last Updated: 4 June, 2023
+Last Updated: 11 August, 2023
 
 
 google, meta.. clistby add korbo..
