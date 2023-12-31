@@ -19,10 +19,10 @@
 | Meta Hacker Cup | [RaiyanMahin](https://www.facebook.com/codingcompetitions/hacker-cup/) | 22 |
 | Google [Code Jam, KickStart]  | [Illusion_2b01](https://codingcompetitions.withgoogle.com/profile/) | 40 |
 | GFG  | [raiyanmahin](https://auth.geeksforgeeks.org/user/raiyanmahin/) | 8 |
-| LeetCode | [rm_097](https://leetcode.com/rm_097/) | 88 |
-| Total | | 1976 |
+| LeetCode | [rm_097](https://leetcode.com/rm_097/) | 150 |
+| Total | | 2038 |
 
-Last Updated:  6 / 12 / 23
+Last Updated:  01 / 01 / 2024
 
-5 : 25 AM
+1 : 47 AM
 
