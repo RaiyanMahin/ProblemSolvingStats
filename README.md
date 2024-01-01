@@ -5,7 +5,7 @@
 | -- | -------- | ----------- |
 | Codeforces | [213976](https://codeforces.com/profile/213976) | 922 |
 | CodeChef | [rm_097](https://www.codechef.com/users/rm_097) | 232 |
-| AtCoder | [rm_097](https://atcoder.jp/users/rm_097) | 298 |
+| AtCoder | [rm_097](https://atcoder.jp/users/rm_097) | 300 |
 | SPOJ | [raiyanmahin](https://www.spoj.com/users/raiyanmahin/) | 12 | 
 | LightOJ | [rm_097](https://lightoj.com/user/rm_097) | 44 | 
 | Toph | [rm_097](https://toph.co/u/rm_097) | 20 |
@@ -20,7 +20,7 @@
 | Google [Code Jam, KickStart]  | [Illusion_2b01](https://codingcompetitions.withgoogle.com/profile/) | 40 |
 | GFG  | [raiyanmahin](https://auth.geeksforgeeks.org/user/raiyanmahin/) | 8 |
 | LeetCode | [rm_097](https://leetcode.com/rm_097/) | 150 |
-| Total | | 2038 |
+| Total | | 2040 |
 
 Last Updated:  01 / 01 / 2024
 
